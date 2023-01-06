@@ -1,5 +1,6 @@
 local keys = {
-     "PYHT1-UV63E-O58V9-3TIBX-FSD0P-ITDNJ"
+     "PYHT1-UV63E-O58V9-3TIBX-FSD0P-ITDNJ",
+     "rac"
 }
 
 local counter = 1
