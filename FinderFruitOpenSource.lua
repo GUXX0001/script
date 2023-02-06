@@ -25,7 +25,7 @@ end
 
 local request = (syn and syn.request) or http and http.request or http_request or (fluxus and fluxus.request) or request
 local queueTeleport = (syn and syn.queue_on_teleport) or queue_on_teleport or (fluxus and fluxus.queue_on_teleport)
-queueTeleport([[loadstring(game:HttpGet("https://raw.githubusercontent.com/RiseValco/scripts/main/bloxfruit_fruits.lua"))()]])
+queueTeleport([[loadstring(game:HttpGet("https://raw.githubusercontent.com/1q0n/script/main/FinderFruitOpenSource.lua"))()]])
 
 
 for _,v in pairs(game:GetDescendants()) do
